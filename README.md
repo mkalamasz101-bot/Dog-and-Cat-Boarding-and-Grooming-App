@@ -5,9 +5,9 @@
   src/
     app.js
     routes/
-      owners.js
-      dogs.js
-      bookings.js
+      owners.js first name , last name , address, phone_number, emergency_contact, email , payment_info
+      dogs.js breed, age, weight, sex, spayed_or_neutered, behvior_notes, dietary_notes, Kennel_notes, LickMat_notes
+      bookings.js 
       payments.js
     controllers/
     models/
